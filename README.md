@@ -1,3 +1,16 @@
+Arduino Coder
+==============
+
+I recently discovered Arduino. Working in technology, I know how difficult it is to make hard things appear simple, and I have the utmost respect for what these people have done for bringing software people like me to electronics. While the tools do a magnifiscent job for new commers, I believe that an important factor in the continued growth of Arduino will be the ability of its tooling, which while remaining simple to attract new users, will have to grow alongside them as they enhance their skills.
+
+While discovering the platform, I ran into the same inconveniences other described about the tools. Over the past couple weeks it led to a series of changes to Arduino IDE to try to add simple solutions for these pain points. Some users shared doubts in the past about technical limitations caused by the technology. I have now enough experience with the codebase to know that many low-hanging fruits exist to close the feature/ease gap that has formed with a number of alternative tools.
+
+The code will be available soon, but in the meantime here is a list of the enhancements it contains: [#4084](https://github.com/arduino/Arduino/issues/4084)
+
+![Arduino Dark](images/arduino-dark.png)
+![Arduino Light](images/arduino-light.png)
+
+
 Arduino
 ========
 
