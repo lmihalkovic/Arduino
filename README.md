@@ -1,15 +1,16 @@
 Arduino Coder
 ==============
 
-I recently discovered Arduino. Working in technology, I know how difficult it is to make hard things appear simple, and I have the utmost respect for what these people have done for bringing software people like me to electronics. While the tools do a magnifiscent job for new commers, I believe that an important factor in the continued growth of Arduino will be the ability of its tooling, which while remaining simple to attract new users, will have to grow alongside them as they enhance their skills.
+I recently discovered Arduino. Working in technology, I know how difficult it is to make hard things appear simple, and I have the utmost respect for what these people have done for bringing software people like me to electronics. While the tools do a magnificent job for newcomers, I believe that an important factor in the continued growth of Arduino will be the ability of its tooling, which while remaining simple to attract new users, will have to grow alongside them as they enhance their skills.
 
-While discovering the platform, I ran into the same inconveniences other described about the tools. Over the past couple weeks it led to a series of changes to Arduino IDE to try to add simple solutions for these pain points. Some users shared doubts in the past about technical limitations caused by the technology. I have now enough experience with the codebase to know that many low-hanging fruits exist to close the feature/ease gap that has formed with a number of alternative tools.
+While discovering the platform, I ran into the same inconveniences others described about the tools. Over the past couple weeks it led to a series of changes to Arduino IDE to try to add simple solutions for these pain points. Some users shared doubts in the past about technical limitations caused by the technology. I have now enough experience with the codebase to know that many low-hanging fruits exist to close the feature/ease gap that has formed with a number of alternative tools.
 
-The code will be available soon, but in the meantime here is a list of the enhancements it contains: [#4084](https://github.com/arduino/Arduino/issues/4084)
+The code will be available soon, but in the meantime here is a list of the enhancements it contains: [#1](https://github.com/lmihalkovic/Arduino/issues/1)
 
 ![Arduino Dark](images/arduino-dark.png)
 ![Arduino Light](images/arduino-light.png)
 
+The design is my tribute to the awesome work the [Arduino team](http://arduino.cc) as done with the upcoming [Arduino Create](https://blog.arduino.cc/2015/05/05/sneak-peak-arduino-create/). Although I am looking forward to becoming a user myself, I will always need to be able to work on projects without an Internet connection.
 
 Arduino
 ========
