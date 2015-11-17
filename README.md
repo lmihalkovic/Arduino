@@ -1,4 +1,4 @@
-Arduino Coder
+What is this?
 ==============
 
 I recently discovered Arduino. Working in technology, I know how difficult it is to make hard things appear simple, and I have the utmost respect for what these people have done for bringing software people like me to electronics. While the tools do a magnificent job for newcomers, I believe that an important factor in the continued growth of Arduino will be the ability of its tooling, which while remaining simple to attract new users, will have to grow alongside them as they enhance their skills.
