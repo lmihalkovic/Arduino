@@ -10,7 +10,7 @@ The code will be available, but in the meantime here is a [list of the enhanceme
 ![Arduino Dark](images/arduino-dark.png)
 ![Arduino Light](images/arduino-light.png)
 
-The design is my tribute to the awesome work the [Arduino team](http://arduino.cc) as done with the upcoming [Arduino Create](https://blog.arduino.cc/2015/05/05/sneak-peak-arduino-create/). Although I am looking forward to becoming a user myself, I will always need to be able to work on projects without an Internet connection.
+The design is my tribute to the awesome work the [Arduino team](http://arduino.cc) has done with the upcoming [Arduino Create](https://blog.arduino.cc/2015/05/05/sneak-peak-arduino-create/). Although I am looking forward to becoming a user myself, I will always need to be able to work on projects without an Internet connection.
 
 Arduino
 ========
