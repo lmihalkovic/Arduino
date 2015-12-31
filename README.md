@@ -5,9 +5,7 @@ I recently discovered Arduino. Working in technology, I know how difficult it is
 
 While discovering the platform, I ran into the same inconveniences others described about the tools. Over the past couple weeks it led to a series of changes to Arduino IDE to try to add simple solutions for these pain points. Some users shared doubts in the past about technical limitations caused by the technology. I have now enough experience with the codebase to know that many low-hanging fruits exist to close the feature/ease gap that has formed with a number of alternative tools.
 
-The code will be available, but in the meantime here is a [list of the enhancements it contains](https://github.com/lmihalkovic/Arduino/issues/1)
-
-This includes in no particular order:
+The code will be available, but in the meantime here is a [list of the enhancements it contains](https://github.com/lmihalkovic/Arduino/issues/1). This includes in no particular order:
 
 * a fresh new look (with complete light/dark skins) with side navigation panel
 
@@ -41,7 +39,9 @@ This includes in no particular order:
 
 ![QuickAccess keys](images/arduino-libs.png)
 
+* support for editing more file types: ASM, library.properties, keywords.txt, png, jpg, markdown (asciidoc soon)
 
+![QuickAccess keys](images/arduino-asm.png)
 
 Arduino
 ========
