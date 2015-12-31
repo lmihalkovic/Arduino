@@ -10,22 +10,35 @@ The code will be available, but in the meantime here is a [list of the enhanceme
 This includes in no particular order:
 
 * a fresh new look (with complete light/dark skins) with side navigation panel
+
 ![Arduino Dark](images/arduino-dark.png)
 ![Arduino Light](images/arduino-light.png)
+
 * libraries inside a sketch 
+
 ![sketch doc](images/arduino-nav.png)
+
 * self documented sketches (layout diagram and readme)
+
 ![sketch doc](images/arduino-doc1.png)
 ![sketch doc](images/arduino-doc2.png)
+
 * single file sketches (easily archived or sent via email)
+
 ![INZ sketch](images/arduino-inz.png)
+
 * quick access to information (key bindings, libraries, todos, variables...)
+
 ![QuickAccess todo](images/qa-todo.png)
 ![QuickAccess libs](images/qa-libs.png)
 ![QuickAccess keys](images/qa-keys.png)
+
 * code completion
+
 ![QuickAccess keys](images/arduino-compl.png)
+
 * library reading and editing
+
 ![QuickAccess keys](images/arduino-libs.png)
 
 
